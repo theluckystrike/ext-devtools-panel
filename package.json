@@ -1,0 +1,10 @@
+{
+  "name": "@zovo/ext-devtools-panel",
+  "version": "1.0.0",
+  "description": "Custom DevTools panels",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "keywords": ["chrome-extension", "zovo"],
+  "author": "Zovo Tools",
+  "license": "MIT"
+}
