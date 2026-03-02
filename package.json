@@ -1,0 +1,16 @@
+{
+  "name": "ext-devtools-panel",
+  "version": "1.0.0",
+  "description": "Advanced DevTools panel for Chrome extensions with networking, storage inspection, and debugging",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": ["chrome-extension", "devtools", "debugging", "panel"],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.258",
+    "typescript": "^5.3.0"
+  }
+}
